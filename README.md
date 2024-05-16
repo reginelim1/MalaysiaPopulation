@@ -1,10 +1,10 @@
 # Malaysia Population
 
 ### Data Set
-- The data set was provided by [data.gov.my] (https://data.gov.my/data-catalogue/population_state)
+- The data set was provided by [data.gov.my](https://data.gov.my/data-catalogue/population_state)
 
 ### Visualization
-- A simple visualization on the population of different states was created using [**Tableau**] (https://public.tableau.com/views/Population_M/PopulationMalaysia?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+- A simple visualization on the population of different states was created using [**Tableau**](https://public.tableau.com/views/Population_M/PopulationMalaysia?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 - The visualization contains:
   1. Malaysia Map for the overall population
   2. Bar chart for population based on gender
